@@ -103,3 +103,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Original Streamlit app developed by [Original Author]
 - GitHub Pages deployment by [Your Name]
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
